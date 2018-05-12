@@ -1,0 +1,32 @@
+_repo: '-------------------------------A.-Fouill-e_39365'
+_version: 0.1.0
+alternative_title: The Philosophy of Socrates according to A. Fouillée
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vrailas-Armenes, Petros
+    aliases:
+    - Vrailas-Armenis, Petros
+    - Βράιλας-Αρμένης, Πέτρος
+    birthdate: 1812
+    deathdate: 1884
+    gutenberg_agent_id: '39989'
+    url: http://www.gutenberg.org/2009/agents/39989
+    wikipedia: http://el.wikipedia.org/wiki/%CE%A0%CE%AD%CF%84%CF%81%CE%BF%CF%82_%CE%92%CF%81%CE%AC%CE%B9%CE%BB%CE%B1%CF%82_%CE%91%CF%81%CE%BC%CE%AD%CE%BD%CE%B7%CF%82
+description: ''
+gutenberg_issued: '2012-04-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39365'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy, Ancient'
+- !lcsh 'Socrates, 470 BC-399 BC'
+title: Η φιλοσοφία του Σωκράτους κατά A. Fouillée
+url: http://www.gutenberg.org/ebooks/39365
